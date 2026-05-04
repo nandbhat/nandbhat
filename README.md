@@ -9,12 +9,8 @@ Co-founder & CTO at Samekar. Most of my personal building happens under [@e7nt](
 - **eazy.video** — ad creator. Built because existing tools were tedious.
 - **parallalee.com** — batch image generation.
 - **sunlo.ai** — listen to articles. Built because NotebookLM was buggy for me.
-
-## Personal projects
-
 - **aaro.life** — health brand. Built to slow myself down.
 - **chronoview** — timeline visualization tool.
-- [nandanbhat.com](https://nandanbhat.com) — personal site.
 
 ## Background
 
